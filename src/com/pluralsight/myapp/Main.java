@@ -16,7 +16,7 @@ import com.pluralsight.calcengine.PowerOf;
 public class Main {
 
     public static void main(String[] args) {
-    	System.out.println("Hi");
+
 //		useMathEquation();
 //		useCalculatorBase();
 //		useCalculateHelper();
